@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GameOver
+comment0.text=\n\ Write\ a\ description\ of\ class\ GameOver\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=t
+comment1.target=void\ scoreLabel(greenfoot.World)
+comment2.params=slist\ nameList
+comment2.target=GameOver(java.util.ArrayList,\ java.util.ArrayList)
+comment3.params=slist\ nameList
+comment3.target=void\ scoreBoard(java.util.ArrayList,\ java.util.ArrayList)
+numComments=4
